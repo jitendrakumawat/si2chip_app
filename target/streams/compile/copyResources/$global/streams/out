@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/si2chip/web_app/msmp1.0.git/conf/routes,/home/si2chip/web_app/msmp1.0.git/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/si2chip/web_app/msmp1.0.git/conf/logback.xml,/home/si2chip/web_app/msmp1.0.git/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/si2chip/web_app/msmp1.0.git/conf/application.conf,/home/si2chip/web_app/msmp1.0.git/target/scala-2.11/classes/application.conf)[0m
